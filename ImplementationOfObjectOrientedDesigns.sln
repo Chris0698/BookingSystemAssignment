@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementationOfObjectOrientedDesigns", "ImplementationOfObjectOrientedDesigns\ImplementationOfObjectOrientedDesigns.csproj", "{BF7DD02F-A3D0-44B0-AF52-229823C111C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{6FCFEF43-892E-4684-B32F-3A41B8E8469C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF7DD02F-A3D0-44B0-AF52-229823C111C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7DD02F-A3D0-44B0-AF52-229823C111C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7DD02F-A3D0-44B0-AF52-229823C111C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7DD02F-A3D0-44B0-AF52-229823C111C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FCFEF43-892E-4684-B32F-3A41B8E8469C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FCFEF43-892E-4684-B32F-3A41B8E8469C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FCFEF43-892E-4684-B32F-3A41B8E8469C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FCFEF43-892E-4684-B32F-3A41B8E8469C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB8338FB-2095-4173-B94D-55C7B8766DFC}
+	EndGlobalSection
+EndGlobal
